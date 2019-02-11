@@ -49,3 +49,12 @@ h3 {
     left: 20%;
     bottom: 300px;
 }
+
+.frontEndDevelopment{
+    float: left;
+    padding-right: 20px;
+}
+.backEndDevelopment{
+    float: right;
+    padding-right: 20px;
+}
